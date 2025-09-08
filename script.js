@@ -1,0 +1,1 @@
+console.log("Vitrine Bom Dia América carregada!");
